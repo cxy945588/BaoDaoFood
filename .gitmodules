@@ -1,0 +1,9 @@
+[submodule "CustomerInterface"]
+    path = CustomerInterface
+    url = https://github.com/cxy945588/CustomerInterface.git
+[submodule "RiderInterface"]
+    path = RiderInterface
+    url = https://github.com/cxy945588/RiderInterface.git
+[submodule "RestaurantInterface"]
+    path = RestaurantInterface
+    url = https://github.com/cxy945588/RestaurantInterface.git
